@@ -4,6 +4,8 @@ Applied Inverse Problems in the oil industry
 # Authors  
 Dr. Naeem Desai and Prof William Lionheart
 
-# Write Introductory Section
+# Introduction
+This paper gives us a novel method for upscaling reservoir modelling. Naeem Desai (2018) gave model with deficiencies.
+
 
 

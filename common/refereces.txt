@@ -1,0 +1,3 @@
+Full Wave Inversion (FWI) in reservoir upscale modelling, Inverse Problems (IOP) 2301 31256, N.M. Desai and W.R.B Lionheart
+
+Desai et al 2018, Nature 
