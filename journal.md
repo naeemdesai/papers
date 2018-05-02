@@ -13,6 +13,9 @@ Do we want to use a deterministic approach or bayesian approach?
 # Simulations
 John Graphene devised a new Forward model for a defense application. 
 
+# Results
+The simulation reproduced a source-detector problem scenario. Hence ideas presented in (2017, SIAM) can be of use.
+
 # Conclusions
 We need to develop a new adjoin formulation fo this specific defence application to work well.
 
