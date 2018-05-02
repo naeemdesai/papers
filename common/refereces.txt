@@ -3,3 +3,5 @@ Full Wave Inversion (FWI) in reservoir upscale modelling, Inverse Problems (IOP)
 Desai et al 2018, Nature
 
 Three dimensional polarimentric neutron tomography, Desai et al 2017, SIAM Imaging 
+
+Novikov et al, Polarization tomography, which Journal?
