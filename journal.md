@@ -19,3 +19,7 @@ The simulation reproduced a source-detector problem scenario. Hence ideas presen
 # Conclusions
 We need to develop a new adjoin formulation fo this specific defence application to work well.
 
+# Figures
+We show figures of the forward problem and proposed reconstructed images from the proposed inverse problem.
+
+
